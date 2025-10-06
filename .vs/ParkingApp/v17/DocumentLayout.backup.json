@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dnet\\ParkingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\parkingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:parkingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\models\\parkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:models\\parkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:wwwroot\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\services\\parkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:services\\parkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\controllers\\parkingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:controllers\\parkingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|e:\\dnet\\parkingapp\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7D8A88-203C-4592-A4C2-DD9B0D7E0553}|ParkingApp.csproj|solutionrelative:models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\dnet\\ParkingApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-24T10:45:59.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParkingApp.csproj",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\ParkingApp.csproj",
+              "RelativeDocumentMoniker": "ParkingApp.csproj",
+              "ToolTip": "E:\\dnet\\ParkingApp\\ParkingApp.csproj",
+              "RelativeToolTip": "ParkingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T10:39:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\dnet\\ParkingApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T10:48:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:41:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParkingState.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Models\\ParkingState.cs",
+              "RelativeDocumentMoniker": "Models\\ParkingState.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Models\\ParkingState.cs",
+              "RelativeToolTip": "Models\\ParkingState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:38:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:38:04.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\wwwroot\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\site.css",
+              "ToolTip": "E:\\dnet\\ParkingApp\\wwwroot\\site.css",
+              "RelativeToolTip": "wwwroot\\site.css",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-24T11:12:21.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParkingService.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Services\\ParkingService.cs",
+              "RelativeDocumentMoniker": "Services\\ParkingService.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Services\\ParkingService.cs",
+              "RelativeToolTip": "Services\\ParkingService.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:40:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParkingApiController.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Controllers\\ParkingApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingApiController.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Controllers\\ParkingApiController.cs",
+              "RelativeToolTip": "Controllers\\ParkingApiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:42:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\dnet\\ParkingApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAABQBAAAAAAAAAAAIwBQBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-24T10:46:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T10:44:36.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:47:22.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParkingSlot.cs",
+              "DocumentMoniker": "E:\\dnet\\ParkingApp\\Models\\ParkingSlot.cs",
+              "RelativeDocumentMoniker": "Models\\ParkingSlot.cs",
+              "ToolTip": "E:\\dnet\\ParkingApp\\Models\\ParkingSlot.cs",
+              "RelativeToolTip": "Models\\ParkingSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:37:08.03Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ParkingApp.Controllers.ParkingController",
+    "Method": "Occupy",
+    "RelativePath": "api/Parking/occupy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ParkingApp.Controllers.ParkingController\u002BOccupyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParkingApp.Controllers.ParkingController",
+    "Method": "Release",
+    "RelativePath": "api/Parking/release",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ParkingApp.Controllers.ParkingController\u002BReleaseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParkingApp.Controllers.ParkingController",
+    "Method": "State",
+    "RelativePath": "api/Parking/state",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

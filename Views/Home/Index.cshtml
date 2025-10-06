@@ -1,0 +1,65 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<div class="page" style="display:flex; gap:18px; padding:18px;">
+    <!-- Left: Tickets -->
+    <div class="left-panel" style="width:320px; border:1px solid #ddd; padding:12px; border-radius:6px; background:#fff;">
+        <h3 style="margin-top:0;">Tickets (Today)</h3>
+
+        <div style="display:flex; gap:8px; margin-bottom:10px;">
+            <input id="searchBox" type="text" placeholder="Search by owner or car number..." style="flex:1; padding:8px; border-radius:6px; border:1px solid #ddd;" />
+            <button id="exportCsv">Export CSV</button>
+            <button id="exportJson">Export JSON</button>
+        </div>
+
+        <div id="ticketsList" style="max-height:70vh; overflow:auto;">Loading...</div>
+    </div>
+
+    <!-- Center: Parking Grid -->
+    <div class="center-panel" style="flex:1; border:1px solid #ddd; padding:12px; border-radius:6px; background:#fff;">
+        <h3 style="margin-top:0;">Parking Slots</h3>
+        <div id="slotsGrid" style="display:grid; grid-template-columns:repeat(5, 1fr); gap:10px; margin-top:12px;"></div>
+
+        <!-- Occupy Modal -->
+        <div id="modal" class="modal" style="display:none;">
+            <div class="modal-content" style="background:#fff; padding:16px; border-radius:6px; max-width:380px; margin:50px auto;">
+                <h3>Occupy Slot</h3>
+                <input id="slotId" type="hidden" />
+                <div style="margin:8px 0;"><input id="carNumber" placeholder="Car number" style="width:100%; padding:8px; border-radius:6px; border:1px solid #ddd;" /></div>
+                <div style="margin:8px 0;"><input id="ownerName" placeholder="Owner name" style="width:100%; padding:8px; border-radius:6px; border:1px solid #ddd;" /></div>
+                <div style="margin:8px 0;"><input id="phone" placeholder="Phone" style="width:100%; padding:8px; border-radius:6px; border:1px solid #ddd;" /></div>
+
+                <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:10px;">
+                    <button id="occupySubmit">Occupy</button>
+                    <button id="occupyCancel">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Release Confirm Modal -->
+        <div id="releaseModal" class="modal" style="display:none;">
+            <div class="modal-content" style="background:#fff; padding:16px; border-radius:6px; max-width:380px; margin:50px auto;">
+                <h3>Release Slot</h3>
+                <p id="confirmText"></p>
+                <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:10px;">
+                    <button id="confirmRelease">Release</button>
+                    <button id="confirmCancel">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right: Daily Summary -->
+    <div class="right-panel" style="width:300px; border:1px solid #ddd; padding:12px; border-radius:6px; background:#fff;">
+        <h3 style="margin-top:0;">Daily Summary</h3>
+        <div id="summaryPanel" style="line-height:1.6;">
+            <div>Loading...</div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
+<link rel="stylesheet" href="~/css/site.css" />

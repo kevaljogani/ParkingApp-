@@ -1,0 +1,206 @@
+{
+  "slots": [
+    {
+      "id": 1,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 2,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 3,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 4,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 5,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 6,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 7,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 8,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 9,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 10,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 11,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 12,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 13,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 14,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 15,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 16,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 17,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 18,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 19,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    },
+    {
+      "id": 20,
+      "occupied": false,
+      "carNumber": null,
+      "ownerName": null,
+      "phone": null,
+      "occupiedAt": null
+    }
+  ],
+  "tickets": [
+    {
+      "ticketId": "589a80aa-2d9f-4792-9f03-301cae272ce9",
+      "slotId": 7,
+      "carNumber": "GJ-123",
+      "ownerName": "keval",
+      "phone": "7069352777",
+      "timestamp": "2025-09-24T11:29:14.2901302Z"
+    },
+    {
+      "ticketId": "1c614a9f-c6d7-4b07-9a4f-47626289c642",
+      "slotId": 6,
+      "carNumber": "GJ-123",
+      "ownerName": "keval",
+      "phone": "7069352777",
+      "timestamp": "2025-09-24T11:28:54.8750735Z"
+    },
+    {
+      "ticketId": "36039941-5d1c-4498-9302-f8df6e9b1625",
+      "slotId": 1,
+      "carNumber": "GJ-123",
+      "ownerName": "keval",
+      "phone": "7069352777",
+      "timestamp": "2025-09-24T11:25:42.1093245Z"
+    },
+    {
+      "ticketId": "7f331139-cf43-41d9-a216-acbb437715c6",
+      "slotId": 2,
+      "carNumber": "GJ-123",
+      "ownerName": "kkk",
+      "phone": "7069352777",
+      "timestamp": "2025-09-24T11:24:59.5839417Z"
+    },
+    {
+      "ticketId": "91a355e0-5ef6-4a7e-a015-ec6d26257716",
+      "slotId": 1,
+      "carNumber": "GJ-123",
+      "ownerName": "keval",
+      "phone": "7069352777",
+      "timestamp": "2025-09-24T11:24:51.0320854Z"
+    }
+  ]
+}
